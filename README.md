@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm RvnJ</h1>
 
 <p align="center">
-  Front-End Developer | UI/UX Enthusiast | Lifelong Learner
+  Fullstack Developer | UI/UX Enthusiast | Lifelong Learner
 </p>
 
 ---
