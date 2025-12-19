@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm RvnJ</h1>
 
 <p align="center">
-  Fullstack Developer | UI/UX Enthusiast | Lifelong Learner
+  Fullstack Web Developer | UI/UX Enthusiast | Lifelong Learner
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a front-end developer passionate about building clean, accessible, and engaging user interfaces. I focus on developing responsive web applications using modern JavaScript frameworks and continuously explore tools and workflows to improve productivity and user experience.
+I'm a developer passionate about building clean, accessible, and engaging user interfaces. I focus on developing responsive web applications using modern JavaScript frameworks and continuously explore tools and workflows to improve productivity and user experience.
 
 ---
 
